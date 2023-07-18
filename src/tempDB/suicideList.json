@@ -1,0 +1,439 @@
+{
+    "suicideHotlineList": [
+      {
+        "country": "Argentina",
+        "hotline_name": "Centro de Asistencia al Suicida",
+        "phone_number": "135"
+        },
+        {
+        "country": "Austria",
+        "hotline_name": "Rat auf Draht",
+        "phone_number": "147"
+        },
+        {
+        "country": "Bangladesh",
+        "hotline_name": "Kaan Pete Roi",
+        "phone_number": "01779554391, 01779554392"
+        },
+        {
+        "country": "Belarus",
+        "hotline_name": "Belarus Suicide Hotline",
+        "phone_number": "8 801 100 8 801"
+        },
+        {
+        "country": "Bolivia",
+        "hotline_name": "Centro de Apoyo Integral",
+        "phone_number": "800 10 2010"
+        },
+        {
+        "country": "Bulgaria",
+        "hotline_name": "National Lifeline",
+        "phone_number": "0035 9249 17 223"
+        },
+        {
+        "country": "Chile",
+        "hotline_name": "Salud Responde",
+        "phone_number": "600 360 7777"
+        },
+        {
+        "country": "China",
+        "hotline_name": "Beijing Suicide Research and Prevention Center",
+        "phone_number": "800-810-1117, 010-8295-1332"
+        },
+        {
+        "country": "Colombia",
+        "hotline_name": "Linea Nacional",
+        "phone_number": "106"
+        },
+        {
+        "country": "Costa Rica",
+        "hotline_name": "Costa Rican Red Cross",
+        "phone_number": "911"
+        },
+        {
+        "country": "Croatia",
+        "hotline_name": "Plavi telefon",
+        "phone_number": "1 48 03 888"
+        },
+        {
+        "country": "Cyprus",
+        "hotline_name": "Cyprus Samaritans",
+        "phone_number": "8000 7773"
+        },
+        {
+          "country": "Czech Republic",
+          "hotline_name": "Linka Bezpečí",
+          "phone_number": "116 111"
+          },
+          {
+          "country": "Denmark",
+          "hotline_name": "Livslinien",
+          "phone_number": "70 201 201"
+          },
+          {
+          "country": "Dominican Republic",
+          "hotline_name": "Sistema Nacional de Emergencias",
+          "phone_number": "911"
+          },
+          {
+          "country": "Estonia",
+          "hotline_name": "Estonian Lifeline",
+          "phone_number": "655 8088"
+          },
+          {
+          "country": "Finland",
+          "hotline_name": "Suomen Mielenterveysseura",
+          "phone_number": "09 2525 0113"
+          },
+          {
+          "country": "Greece",
+          "hotline_name": "Klimaka",
+          "phone_number": "1018"
+          },
+          {
+          "country": "Hong Kong",
+          "hotline_name": "The Samaritans Hong Kong",
+          "phone_number": "2896 0000"
+          },
+          {
+          "country": "Hungary",
+          "hotline_name": "Lelki Elsősegély Telefonszolgálat",
+          "phone_number": "116 123"
+          },
+          {
+          "country": "Iceland",
+          "hotline_name": "Rauði Krossinn",
+          "phone_number": "1717"
+          },
+          {
+          "country": "Indonesia",
+          "hotline_name": "Kementerian Kesehatan",
+          "phone_number": "150-0454"
+          },
+          {
+          "country": "Ireland",
+          "hotline_name": "Samaritans Ireland",
+          "phone_number": "116 123"
+          },
+          {
+          "country": "Israel",
+          "hotline_name": "ERAN",
+          "phone_number": "1201"
+          },
+          {
+          "country": "Jamaica",
+          "hotline_name": "Mental Health Helpline",
+          "phone_number": "888-639-5433"
+          },
+          {
+          "country": "Kenya",
+          "hotline_name": "Befrienders Kenya",
+          "phone_number": "+254 722 178 177"
+          },
+          {
+          "country": "Latvia",
+          "hotline_name": "Skalbes",
+          "phone_number": "371 67222922, 371 27722292"
+          },
+          {
+          "country": "Lebanon",
+          "hotline_name": "Embrace LifeLine",
+          "phone_number": "1564"
+          },
+          {
+          "country": "Lithuania",
+          "hotline_name": "Vaikų linija",
+          "phone_number": "8 800 20100"
+          },
+          {
+          "country": "Luxembourg",
+          "hotline_name": "SOS Détresse",
+          "phone_number": "454545"
+          },
+          {
+          "country": "Malaysia",
+          "hotline_name": "Befrienders",
+          "phone_number": "03-7956 8145"
+          },
+          {
+          "country": "Malta",
+          "hotline_name": "Supportline 179",
+          "phone_number": "179"
+          },
+          {
+            "country": "Mauritius",
+            "hotline_name": "Befrienders Mauritius",
+            "phone_number": "800 93 93"
+            },
+            {
+            "country": "Mexico",
+            "hotline_name": "SAPTEL",
+            "phone_number": "55 5259 8121"
+            },
+            {
+            "country": "Moldova",
+            "hotline_name": "Telefonul de încredere",
+            "phone_number": "0 800 800 11"
+            },
+            {
+            "country": "Monaco",
+            "hotline_name": "SOS Suicide",
+            "phone_number": "45 39 40"
+            },
+            {
+            "country": "Mongolia",
+            "hotline_name": "Mongolian Mental Health Association",
+            "phone_number": "1800 2000"
+            },
+            {
+            "country": "Montenegro",
+            "hotline_name": "SOS Telefon Dječije Društvo",
+            "phone_number": "116 111"
+            },
+            {
+            "country": "Morocco",
+            "hotline_name": "Sourire de Reda",
+            "phone_number": "05 22 38 47 47"
+            },
+            {
+            "country": "Nepal",
+            "hotline_name": "Transcultural Psychosocial Organization Nepal",
+            "phone_number": "1660 010 2005"
+            },
+            {
+            "country": "Netherlands",
+            "hotline_name": "113 Zelfmoordpreventie",
+            "phone_number": "0800 0113"
+            },
+            {
+            "country": "New Zealand",
+            "hotline_name": "Lifeline",
+            "phone_number": "0800 543 354"
+            },
+            {
+            "country": "Nicaragua",
+            "hotline_name": "La Línea Azul",
+            "phone_number": "133"
+            },
+            {
+            "country": "Nigeria",
+            "hotline_name": "Mentally Aware Nigeria Initiative (MANI)",
+            "phone_number": "0806 000 3888"
+            },
+            {
+            "country": "Norway",
+            "hotline_name": "Kirkens SOS",
+            "phone_number": "22 40 00 40"
+            },
+            {
+            "country": "Oman",
+            "hotline_name": "Child Helpline Oman",
+            "phone_number": "1100"
+            },
+            {
+            "country": "Pakistan",
+            "hotline_name": "Umang Hotline",
+            "phone_number": "0311 7786264"
+            },
+            {
+            "country": "Panama",
+            "hotline_name": "Línea de Apoyo emocional",
+            "phone_number": "207 21 21"
+            },
+            {
+            "country": "Paraguay",
+            "hotline_name": "SOS Desesperanza",
+            "phone_number": "0994 100 007"
+            },
+            {
+            "country": "Peru",
+            "hotline_name": "Línea Salud Mental",
+            "phone_number": "113"
+            },
+            {
+            "country": "Philippines",
+            "hotline_name": "Hopeline",
+            "phone_number": "0917 558 4673"
+            },
+            {
+            "country": "Poland",
+            "hotline_name": "Telefon Zaufania",
+            "phone_number": "116 111"
+            },
+            {
+            "country": "Portugal",
+            "hotline_name": "Linha SOS Voz Amiga",
+            "phone_number": "21 354 45 45"
+            },
+            {
+            "country": "Puerto Rico",
+            "hotline_name": "Línea PAS",
+            "phone_number": "1-800-981-0023"
+            },
+            {
+            "country": "Qatar",
+            "hotline_name": "Qatar Crisis Hotline",
+            "phone_number": "1606"
+            },
+            {
+            "country": "Romania",
+            "hotline_name": "Alianţa Română de Prevenţie a Suicidului",
+            "phone_number": "0800 801 200"
+            },
+            {
+            "country": "Russia",
+            "hotline_name": "Befrienders Moscow",
+            "phone_number": "007 (495) 625 8104"
+            },
+            {
+            "country": "Saudi Arabia",
+            "hotline_name": "National Mental Health Promotion Program",
+            "phone_number": "9200 333 660"
+            },
+            {
+            "country": "Serbia",
+            "hotline_name": "Srce Crisis Helpline",
+            "phone_number": "0800 300 303"
+            },
+            {
+            "country": "Singapore",
+            "hotline_name": "Samaritans of Singapore",
+            "phone_number": "1800 221 4444"
+            },
+            {
+            "country": "Slovakia",
+            "hotline_name": "Linka detskej istoty",
+            "phone_number": "116 111"
+            },
+            {
+            "country": "Slovenia",
+            "hotline_name": "Klic V Duhovni Stiski",
+            "phone_number": "116 123"
+            },
+            {
+            "country": "South Africa",
+            "hotline_name": "Suicide Crisis Helpline",
+            "phone_number": "0800 567 567"
+            },
+            {
+            "country": "Spain",
+            "hotline_name": "Teléfono de la Esperanza",
+            "phone_number": "717 003 717"
+            },
+            {
+            "country": "Sweden",
+            "hotline_name": "Mind Självmordslinjen",
+            "phone_number": "90101"
+            },
+            {
+            "country": "Sweden",
+            "hotline_name": "Chatta med någon",
+            "phone_number": "https://chat.mind.se/"
+            },
+            {
+            "country": "Switzerland",
+            "hotline_name": "La Main Tendue",
+            "phone_number": "143"
+            },
+            {
+            "country": "Taiwan",
+            "hotline_name": "Taiwan Suicide Prevention Center",
+            "phone_number": "0800 788 995"
+            },
+            {
+            "country": "Tanzania",
+            "hotline_name": "Lifeline Tanzania",
+            "phone_number": "0800 110014"
+            },
+            {
+            "country": "Thailand",
+            "hotline_name": "Samaritans of Thailand",
+            "phone_number": "02 713 6793"
+            },
+            {
+            "country": "Thailand",
+            "hotline_name": "Thai Mental Health Hotline",
+            "phone_number": "1323"
+            },
+            {
+            "country": "Trinidad and Tobago",
+            "hotline_name": "Lifeline",
+            "phone_number": "131"
+            },
+            {
+            "country": "Tunisia",
+            "hotline_name": "SOS Suicide",
+            "phone_number": "22 295 056"
+            },
+            {
+              "country": "Turkey",
+              "hotline_name": "Alo 183",
+              "phone_number": "183"
+          },
+          {
+              "country": "Uganda",
+              "hotline_name": "Befrienders Uganda",
+              "phone_number": "+256 393 311 002"
+          },
+          {
+              "country": "Ukraine",
+              "hotline_name": "La Strada Ukraine",
+              "phone_number": "116 123"
+          },
+          {
+              "country": "United Arab Emirates",
+              "hotline_name": "National Programme for Happiness & Well-being",
+              "phone_number": "800 4673"
+          },
+          {
+              "country": "United Kingdom",
+              "hotline_name": "Samaritans",
+              "phone_number": "116 123"
+          },
+          {
+              "country": "United States",
+              "hotline_name": "National Suicide Prevention Lifeline",
+              "phone_number": "1-800-273-TALK (1-800-273-8255)"
+          },
+          {
+              "country": "Uruguay",
+              "hotline_name": "Línea Vida",
+              "phone_number": "0800 0767"
+          },
+          {
+              "country": "Venezuela",
+              "hotline_name": "Teléfono Amigo",
+              "phone_number": "912 0400"
+          },
+          {
+              "country": "Vietnam",
+              "hotline_name": "Tổ chức Giúp đỡ trực tuyến",
+              "phone_number": "1800 1508"
+          },
+          {
+              "country": "Uzbekistan",
+              "hotline_name": "Mental Health Hotline",
+              "phone_number": "998 71 267 0009"
+          },
+          {
+              "country": "Vanuatu",
+              "hotline_name": "Lifeline Australia",
+              "phone_number": "13 11 14"
+          },
+          {
+              "country": "Yemen",
+              "hotline_name": "National Mental Health Hotline",
+              "phone_number": "Please contact local health services"
+          },
+          {
+              "country": "Zambia",
+              "hotline_name": "Lifeline Zambia",
+              "phone_number": "097 765 2033"
+          },
+          {
+              "country": "Zimbabwe",
+              "hotline_name": "Samaritans Zimbabwe",
+              "phone_number": "116 123"
+          }
+    ]
+}

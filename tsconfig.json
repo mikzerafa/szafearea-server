@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "resolveJsonModule": true,
+      "target": "es6",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "dist",
+      "baseUrl": "./",
+      "paths": {
+        "*": ["node_modules/*"]
+      }
+    },
+    "include": ["src/**/*.ts", "src/index.mjs", "src/index.tsx"],
+    "exclude": ["node_modules", "dist"]
+  }
+  
